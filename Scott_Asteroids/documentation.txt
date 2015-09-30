@@ -1,0 +1,20 @@
+Nelson Scott
+IGME 202 Section 2
+
+Asteroids
+
+List of user functionality:
+- Move player one with W,S,A,D. Fire a bullet with SPACE.
+-Move player two with the ARROW KEYS, Fire bullets with M
+
+Reasoning behind design choices:
+I think asteroids is boring, so I made it competetive and two player to make it fun.
+The controls and movement were tweaked until they felt right. I made the movement fast and deceleration fast for tighter controls.
+All art assets were drawn by me for other games.
+
+Brief description of above and beyond features:
+I added scoring for both users, multiple menus, and custom graphics. And two players so that counts for something.
+
+Requirements not completed: None.
+
+Note to grader:  Hey.
